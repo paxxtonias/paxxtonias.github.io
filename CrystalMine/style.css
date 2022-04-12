@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-image: url("img/bg.jpeg");
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+}
+
+.price {
+    color: lime;
+    font-weight: bold;
+}
